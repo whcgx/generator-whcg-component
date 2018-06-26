@@ -1,6 +1,6 @@
 {
-  "name": "generator-whcg-component",
-  "version": "0.0.0",
+  "name": "@whcg/generator-whcg-component",
+  "version": "1.0.0",
   "description": "",
   "homepage": "",
   "author": {
