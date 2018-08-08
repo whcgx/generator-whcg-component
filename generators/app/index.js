@@ -14,7 +14,7 @@ module.exports = class extends Generator {
       {
         type: 'input',
         name: 'author',
-        message: 'Who is the author?',
+        message: 'Who is the author??',
         default: 'whcg'
       },
       {
